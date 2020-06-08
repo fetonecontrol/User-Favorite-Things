@@ -1,12 +1,13 @@
-# _Doc readme_
+# _User Favorite things_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _This takes user imputs and returns an array 1.0 2020_
 
-#### By _Ian Gregg & (Co author)_
+#### By _Ian Gregg & Frederick Ernest_
+[User-favorite-things](https://github.com/oldgregg89/User-Favorite-Things)
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_Gives a users imput back to them as a string _
 
 ## Setup/Installation Requirements
 
@@ -23,9 +24,9 @@ _No known bugs_
 
 ## Support and contact details
 
-_Contact Ian Gregg: iangregg188@gmail.com
+_Contact Ian Gregg: <iangregg188@gmail.com>
 or
-(co author)_
+Frederick Ernest <frederick.ernest@gmail.com>_
 
 ## Technologies Used
 
@@ -33,7 +34,7 @@ _The Technologies used in the making of this software was Chrome browser, Visual
 
 ### License
 
-Copyright (c) 2016 **_Ian Gregg & (Co author)_**
+Copyright (c) 2020 **_Ian Gregg & Frederick Ernest_**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
